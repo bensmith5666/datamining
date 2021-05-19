@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"nodeid": "001e0611850f", "name": "111th St & Martin Luther King Dr Chicago IL", "range": "3-4"}, "geometry": {"type": "Polygon", "coordinates": [[[-87.623419, 41.682837], [-87.623419, 41.702836999999995], [-87.60341899999999, 41.702836999999995], [-87.60341899999999, 41.682837]]]}}]}

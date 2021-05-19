@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"nodeid": "001e061184a3", "name": "99th St & Beverly Blvd Chicago IL", "range": "over50"}, "geometry": {"type": "Polygon", "coordinates": [[[-87.669612, 41.704021000000004], [-87.669612, 41.724021], [-87.64961199999999, 41.724021], [-87.64961199999999, 41.704021000000004]]]}}]}
